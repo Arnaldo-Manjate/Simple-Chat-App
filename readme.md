@@ -12,4 +12,7 @@
 
 2. Open the index,html file on multple browser windows.
 
+## select the ingredient you would like in your Burger
+<img src="gifs/demo.gif" height="400px">
+
 ## Happpy Coding :) ..
